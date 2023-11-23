@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/kamildegerliyurt/ToDoList/assets/139812195/7906d3d7-d4a9-4f0c-9705-4be52c7c063a">
+  <img width="200" height="200" src="https://github.com/kamildegerliyurt/ToDoList/assets/139812195/7906d3d7-d4a9-4f0c-9705-4be52c7c063a">
 </p>
 
 
