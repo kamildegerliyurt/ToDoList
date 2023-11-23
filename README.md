@@ -15,7 +15,7 @@
   <img width="220" height="220" src="https://github.com/kamildegerliyurt/ToDoList/assets/139812195/32ebb5da-94df-4358-8c76-81fd4e45912a">
 </p>
 
-<img src="https://github.com/kamildegerliyurt/ToDoList/assets/139812195/32ebb5da-94df-4358-8c76-81fd4e45912a" width="220" height="420" />
+
 
 
 
