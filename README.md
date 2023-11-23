@@ -11,11 +11,6 @@
   <img width="200" height="200" src="https://github.com/kamildegerliyurt/ToDoList/assets/139812195/7906d3d7-d4a9-4f0c-9705-4be52c7c063a">
 </p>
 
-<p align="center">
-  <img width="220" height="220" src="https://github.com/kamildegerliyurt/ToDoList/assets/139812195/32ebb5da-94df-4358-8c76-81fd4e45912a">
-</p>
 
-
-
-
+<img src="https://github.com/kamildegerliyurt/ToDoList/assets/139812195/32ebb5da-94df-4358-8c76-81fd4e45912a" width="220" height="420" />
 
