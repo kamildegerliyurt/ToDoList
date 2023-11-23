@@ -5,10 +5,10 @@ import { AntDesign } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const HomePage = ({ navigation }) => {
-//----------------------------------------------------------------------
+
   const [notes, setNotes] = useState('');
   const [cartValue, setCartValue] = useState([]);
-//----------------------------------------------------------------------
+
   useEffect(() => {
     const loadCartValue = async () => {
       try {
@@ -23,7 +23,7 @@ const HomePage = ({ navigation }) => {
 
     loadCartValue();
   }, []); 
-  //----------------------------------------------------------------------
+ 
 
   const handleAddToCart = async () => {
     try {
@@ -35,7 +35,7 @@ const HomePage = ({ navigation }) => {
       console.error('Error saving cartValue:', error);
     }
   };
-  //----------------------------------------------------------------------
+
   const handleDeleteItem = async (index) => {
     try {
       const updatedCart = [...cartValue];
@@ -46,7 +46,7 @@ const HomePage = ({ navigation }) => {
       console.error('Error saving cartValue:', error);
     }
   };
-  //----------------------------------------------------------------------
+
 
   return (
     <SafeAreaView style={styles.homePageContainer}>
